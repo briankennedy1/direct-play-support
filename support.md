@@ -9,7 +9,7 @@ Support contact: [open an issue on the Direct Play support repo](https://github.
 ## Before Contacting Support
 
 - Confirm your Apple TV and Plex server are on the same network.
-- Confirm the Plex server URL in Settings includes the scheme and port, for example `http://192.168.0.235:32400`.
+- Confirm the Plex server URL in Settings includes the scheme and port, for example `http://your-server.local:32400`.
 - Re-link your Plex account in Settings if the app says Plex rejected the token.
 - Refresh the Plex library if the app says a media part is unavailable.
 - Confirm the file still exists on the NAS or storage path used by Plex.
