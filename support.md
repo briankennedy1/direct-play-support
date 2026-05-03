@@ -4,11 +4,7 @@ Direct Play is an Apple TV app for browsing and playing media from a Plex server
 
 ## Contact
 
-Support contact:
-
-```text
-TODO: Add a public support email address before App Store submission.
-```
+Support contact: [open an issue on the Direct Play support repo](https://github.com/briankennedy1/direct-play-support/issues).
 
 ## Before Contacting Support
 

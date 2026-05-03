@@ -1,6 +1,6 @@
 # Direct Play Privacy Policy
 
-Last updated: TODO
+Last updated: May 3, 2026
 
 Direct Play is an Apple TV app for browsing and playing media from a Plex server you configure.
 
@@ -39,10 +39,6 @@ Direct Play does not provide, host, sell, or index movies, TV shows, live channe
 
 ## Contact
 
-Privacy contact:
-
-```text
-TODO: Add a public privacy contact email address before App Store submission.
-```
+Privacy contact: [open an issue on the Direct Play support repo](https://github.com/briankennedy1/direct-play-support/issues).
 
 Direct Play is not affiliated with, endorsed by, or sponsored by Plex.
