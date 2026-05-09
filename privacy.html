@@ -14,17 +14,17 @@
   <main>
     <p><a href="index.html">Direct Play</a></p>
     <h1>Direct Play Privacy Policy</h1>
-    <p>Last updated: May 3, 2026</p>
+    <p>Last updated: May 9, 2026</p>
     <p>Direct Play is an Apple TV app for browsing and playing media from a Plex server you configure.</p>
 
     <h2>Data Stored On Your Device</h2>
-    <p>Direct Play stores your Plex access token in Keychain, a stable Direct Play client identifier in UserDefaults, and your configured Plex server URL in UserDefaults.</p>
+    <p>Direct Play stores your Plex access token and any discovered Plex server access tokens in Keychain, a stable Direct Play client identifier in UserDefaults, and your configured Plex server URL in UserDefaults.</p>
 
     <h2>Network Connections</h2>
-    <p>Direct Play connects to the Plex server URL you configure to browse and play your media library. It also contacts plex.tv during Plex link-code sign-in. During playback, Direct Play reports playback timeline state to your configured Plex server so resume and watched status can update.</p>
+    <p>Direct Play connects to the Plex server URL you configure to browse and play your media library. It also contacts plex.tv during Plex link-code sign-in, may contact api.tvmaze.com to resolve original-platform metadata, and may request logo images from logo.clearbit.com for known studio or network domains. During playback, Direct Play reports playback timeline state to your configured Plex server so resume and watched status can update.</p>
 
     <h2>Media Library Data</h2>
-    <p>Direct Play reads metadata from your configured Plex server, including show, season, episode, artwork, file, codec, duration, resume, and playback metadata. Direct Play does not upload your media library metadata to any service other than Plex endpoints chosen by you.</p>
+    <p>Direct Play reads metadata from your configured Plex server, including show, season, episode, artwork, file, codec, duration, resume, and playback metadata. Direct Play does not upload your media files. It sends Plex library requests to the Plex server you choose, may send a show title to TVmaze to resolve original-platform metadata, and may request a logo image from Clearbit using a known network or studio domain. It does not send your Plex token to TVmaze or Clearbit, and saved server preferences do not include Plex access tokens.</p>
 
     <h2>Tracking And Advertising</h2>
     <p>Direct Play does not include third-party analytics, advertising, or tracking SDKs. Direct Play does not sell personal information.</p>
